@@ -1,0 +1,1 @@
+{"uuid":"30414152-cadc-40d0-b2b5-0e793e88b76a","name":"apitests.GoRestCrudTests","children":["f58b3790-4939-49ab-a6ed-2b545dcdc8d7"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694524908546,"stop":1694524908845}],"afters":[],"start":1694524908532,"stop":1694524955283}
